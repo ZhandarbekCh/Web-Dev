@@ -1,0 +1,48 @@
+1. The answer is 2, that’s the first truthy value.
+
+2. The answer: first 1, then 2.
+
+3. The answer: null, because it’s the first falsy value from the list.
+
+4. The answer: 1, and then undefined.
+
+5. The answer: 3.
+
+6. The answer: if (age >= 14 && age <= 90)
+
+7. The answer: if (!(age >= 14 && age <= 90))
+
+8. The answer: Will run
+// The result of -1 || 0 = -1, truthy
+if (-1 || 0) alert( 'first' );
+
+// Doesn't run
+// -1 && 0 = 0, falsy
+if (-1 && 0) alert( 'second' );
+
+// Executes
+// Operator && has a higher precedence than ||
+// so -1 && 1 executes first, giving us the chain:
+// null || -1 && 1  ->  null || 1  ->  1
+if (null || -1 && 1) alert( 'third' );
+
+10. The answer:
+let userName = prompt("Who's there?", '');
+
+if (userName === 'Admin') {
+
+  let pass = prompt('Password?', '');
+
+  if (pass === 'TheMaster') {
+    alert( 'Welcome!' );
+  } else if (pass === '' || pass === null) {
+    alert( 'Canceled' );
+  } else {
+    alert( 'Wrong password' );
+  }
+
+} else if (userName === '' || userName === null) {
+  alert( 'Canceled' );
+} else {
+  alert( "I don't know you" );
+}
