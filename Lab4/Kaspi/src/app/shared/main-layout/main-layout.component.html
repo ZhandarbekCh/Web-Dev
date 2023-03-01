@@ -1,12 +1,14 @@
 
-<div class="test">
-    <ul class="headers">
-        <li routerLinkActive="active">
-            <a href="#">Создатель</a>
-        </li>
-        <li routerLinkActive="active">
-            <a [routerLink]="['/product']">Товары</a>
-        </li>
-    </ul>
-</div>
+    <div class="navbar">
+        <div class="subnav">
+            <button class="subnavbtn">Товары <i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+              <a [routerLink]="['/product']">Телефоны</a>
+              <a [routerLink]="['/products2']">Телевизоры</a>
+              <a [routerLink]="['/products3']">Холодильники</a>
+              <a [routerLink]="['/products4']">Компьютеры</a>
+            </div>
+          </div> 
+        </div>
+
 <router-outlet></router-outlet>

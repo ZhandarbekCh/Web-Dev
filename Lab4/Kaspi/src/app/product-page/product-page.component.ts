@@ -12,4 +12,10 @@ export class ProductPageComponent {
   public share(link:string){
     window.location.href = link;
   }
+  likeButtonClick(index:number) {
+    this.products[index].numberOfLikes++;
+  }
+  deleteButton(index:number){
+    this.products.splice(index,1)
+  }
 }
