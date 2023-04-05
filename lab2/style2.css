@@ -41,7 +41,7 @@ body{
    margin-bottom: 10px;
    border: 1px solid #eeebeb;
    display: flex;
-   flex-direction: column;
+   flex-direction: row;
    padding: 10px;
    outline: red;
     

@@ -74,7 +74,7 @@ textarea::-webkit-scrollbar {
   color: #10cebb;
 }
 .todoLists {
-  max-height: 680px;
+  max-height: 880px;
   overflow-y: auto;
   padding-right: 12px;
 }

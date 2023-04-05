@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 150px;
+    margin-left: 150px; /*no need because v budushem i vse podvinul*/
 }
 .center{
     width: 400px;
@@ -65,6 +65,7 @@
     text-align: center;
     margin-top: 20px;
 }
+
 .fab{
     color:rgb(0, 55 , 107);
     margin-right: 3px;
