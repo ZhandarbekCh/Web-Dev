@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d21b6605-ec3f-447e-b1d2-7345f6138b85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/webdev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/webdev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/facebook/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/facebook/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/toDoList/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/toDoList/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/11.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/12.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/13.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/13.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/.angular/cache/15.1.6/angular-webpack/6a2d28645ee113ec9815ff38acdd51d3b0eb9c55/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/store-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/store-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/album-page/src/app/album/album.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/album-page/src/app/album/album.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/shopback/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/shopback/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab9/hhback/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab9/hhback/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab9/hhback/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../lab9/hhback/api/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OQHlndHHF1bLpYWevsMTqLNZ5S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ayan/Desktop/kbtuhelper/kbtu-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Users\\ayan\\Desktop\\folder\\webdev\\lab10\\hh-front\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayan\Desktop\folder\webdev\lab10\hhback\api\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21b6605-ec3f-447e-b1d2-7345f6138b85" name="Changes" comment="" />
+      <created>1681486038659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681486038659</updated>
+      <workItem from="1681486039935" duration="10417000" />
+      <workItem from="1681553254386" duration="10308000" />
+      <workItem from="1681571724883" duration="555000" />
+      <workItem from="1681572454088" duration="953000" />
+      <workItem from="1681639722438" duration="6442000" />
+      <workItem from="1681662294799" duration="683000" />
+      <workItem from="1681812507036" duration="6194000" />
+      <workItem from="1681881544134" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
